@@ -1,0 +1,11 @@
+# 环境变量（含密钥，禁止提交）
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# 系统
+.DS_Store
